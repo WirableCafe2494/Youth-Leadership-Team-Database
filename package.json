@@ -1,5 +1,6 @@
 {
   "name": "youth-leadership-team-database",
+  "homepage": "https://WirableCafe2494.github.io/Youth-Leadership-Team-Database",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,6 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    
   },
   "dependencies": {
     "react": "^19.2.8",

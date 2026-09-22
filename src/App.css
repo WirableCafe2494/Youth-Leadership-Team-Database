@@ -125,6 +125,7 @@ body {
     color: var(--color-text-primary);
     background-color: var(--color-bg-secondary);
     transition: 0.4s ease;
+    flex-direction: row;
 }
 
 .sidebar.collapsed .sidebar-header .sidebar-toggle {
